@@ -1,0 +1,22 @@
+{
+  "name": "claude-code-learning",
+  "version": "1.0.0",
+  "description": "A beginner project for learning Claude Code.",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mysticalanna/Claude-Code-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mysticalanna/Claude-Code-Learning/issues"
+  },
+  "homepage": "https://github.com/mysticalanna/Claude-Code-Learning#readme"
+}
